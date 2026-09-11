@@ -1,1 +1,3 @@
-[▶️ Watch the demo video](download.mp4)
+## Demo
+
+🎥 [Watch the demo](./download.mp4)
